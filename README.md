@@ -10,6 +10,6 @@ Part 2: Create a Button.module.css and style the button to make it look as close
 
  // Last updated 5/16/24
 
-// Peer Review by:
+// Peer Review by: Alejandro De La Cruz-Rubio
 
-// Comments: 
+// Comments: Code looks clean and button works flawlessly. Visually, the botton looks just like the bootstrap one and the color used for the background is really nice. Good job Julius!
