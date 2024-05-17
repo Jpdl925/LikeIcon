@@ -14,13 +14,15 @@ const changeFill = () => {
 }
   return (
     <>
-    
+    <div className={styles.buttonContainer}>
     <h1>LIKE BUTTON</h1>
-    <button onClick={changeFill}>
+    <button className={styles.button} onClick={changeFill}>
         {
             fill ? <AiFillLike /> : <AiOutlineLike />
         }
     </button>
+
+    </div>
 
     
     </>
